@@ -660,7 +660,7 @@ Now its successfully installed and set up Grafana to work with Prometheus for mo
 1. **Implement Notification Services:**
     - Set up email notifications in Jenkins or other notification mechanisms.
 
-# Phase 6: Kubernetes
+## Phase 6: Kubernetes
 
 ## Create Kubernetes Cluster with Nodegroups
 
