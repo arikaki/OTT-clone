@@ -662,11 +662,11 @@ Now its successfully installed and set up Grafana to work with Prometheus for mo
 
 ## Phase 6: Kubernetes
 
-## Create Kubernetes Cluster with Nodegroups
+### Create Kubernetes Cluster with Nodegroups
 
 In this phase, set up a Kubernetes cluster with node groups. This will provide a scalable environment to deploy and manage applications.
 
-## Monitor Kubernetes with Prometheus
+### Monitor Kubernetes with Prometheus
 
 Prometheus is a powerful monitoring and alerting toolkit, use it to monitor Kubernetes cluster. Additionally, install the node exporter using Helm to collect metrics from cluster nodes.
 
